@@ -1,0 +1,39 @@
+*{
+    margin: 0;
+    padding: 0
+}   
+
+
+ .Plantsites{  
+        display:flex;   
+        background-color: darkolivegreen;
+        color: white;
+        justify-content: space-around;
+        align-items: center;
+    }
+
+.Plantsites-imagem{
+        width:5%;    
+    
+}
+
+
+
+    .cabecalho-lista_item{
+        display: inline-block;
+        margin: 0 16px;
+        font-size: 16px;
+    }
+    
+.plant{
+    background-color: #8d936e;
+    display:flex;    
+    justify-content:center;
+    align-items: center;
+    padding: 24px 0;
+
+}
+
+.plant-imagem{
+    width:20%;
+}
