@@ -17,14 +17,9 @@
     
 }
 
-.plant-logo{
-    display: flex;
-    align-items: center;
-    justify-content: center;
-    padding-right: 100px;
-}
 
-.cabecalho-lista_item{
+
+    .cabecalho-lista_item{
         display: inline-block;
         margin: 0 16px;
         font-size: 16px;
@@ -42,24 +37,3 @@
 .plant-imagem{
     width:20%;
 }
-.plantas{
-    padding: 24px 0;
-}
-
-.planta-div{
-    text-align: center;
-    padding: 16px 0;
-}
-.plantas-todos{
-    display: grid;
-    grid-template-columns: 25% 25% 25% 25%;
-
-}
-    .rodape{
-        background-color:#1A401C;
-        text-align: center;
-    }
-    .rodape-imagem{
-        height: 60px;
-        padding: 12px 0;
-    }
